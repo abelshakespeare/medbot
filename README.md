@@ -10,7 +10,7 @@
 <br />
 
 <p align="center">
-MedBot is an open-source chatbot builder. It allows you to create advanced chatbots visually, embed them anywhere on your web/mobile apps, and collect results in real-time
+MedBot is an open-source chatbot. It allows you to create advanced chatbots visually, embed them anywhere on your web/mobile apps, and collect results in real-time
 </p>
 
 <h3 align="center">
@@ -20,7 +20,7 @@ MedBot is an open-source chatbot builder. It allows you to create advanced chatb
 
 ## Features
 
-MedBot makes it easy to create advanced chatbots. It provides the building block that are adaptable to any business use case. I improve Typebot regularly with bug fixes, new features, and performance improvements regularly.
+MedBot makes it easy to create advanced chatbots. It provides the building block that are adaptable to any business use case.
 
 **Chat builder** with 34+ building blocks such as:
 
